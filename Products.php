@@ -71,5 +71,5 @@ $languageStrings = array(
 	'Sheet'                        => 'Foglio'                      , 
 	'Spiral Binder'                => 'Raccoglitore a spirale '     , 
 	'Sq Ft'                        => 'Sq Ft'                       , 
-	'LBL_CONVERSION_RATE'          => 'Conversion Rate'             , // TODO: Review
+	'LBL_CONVERSION_RATE'          => 'Tasso di conversione'        , 
 );
